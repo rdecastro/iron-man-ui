@@ -1,7 +1,7 @@
 # Iron Man UI Project
 
 # Mission
-- Our mission is to build the Iron Man User Interface and make it a reality in this lifetime.
+- Our mission is to build the Iron Man User Interface and make it a reality in this lifetime
 
 # Team Leader
 - Ray Joseph De Castro
@@ -25,6 +25,9 @@
 # Technology Stack
 - TBD
 
+# Kanban Board
+- https://trello.com/ironmanuiproject
+
 # Roadmap
 - Project Start Date: 2015.01.21 @ 11:21
-- MVP 1 Release: TBD. Some time in the near future before Ray De Castro dies.
+- MVP 1 Release: TBD. Some time in the near future before Ray De Castro dies
