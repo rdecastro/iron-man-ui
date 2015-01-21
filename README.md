@@ -17,7 +17,7 @@
 - 100% Automated Unit Test Coverage
 - All production grade code must have production grade unit tests
 - All unit tests must pass
-- If the unit tests pass, we ship.
+- If the unit tests pass, we ship
 
 # Hardware Requirements
 - TBD
