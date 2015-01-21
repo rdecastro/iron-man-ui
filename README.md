@@ -30,4 +30,4 @@
 
 # Roadmap
 - Project Start Date: 2015.01.21 @ 11:21
-- MVP 1 Release: TBD. Some time in the near future before Ray De Castro dies
+- MVP 1 Release: TBD
