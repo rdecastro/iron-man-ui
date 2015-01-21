@@ -7,8 +7,8 @@
 - Ray Joseph De Castro
 
 # Team Members
-- TBD
-- TODO: Please add your name here if you are interested in working on the project.
+- Ray Joseph De Castro
+- Neha Dalal
 
 # Software Requirements
 - Clean Code
